@@ -33,15 +33,9 @@ export default function AboutPage() {
               transition={{ duration: 0.6, delay: 0.2 }}
             >
               <img
-<<<<<<< HEAD
                 src="/assets/img/about-4.png"
                 alt="Sobre Asesores LBA"
                 className="rounded-2xl shadow-2xl w-full object-cover max-h-120"
-=======
-                src="/assets/img/about.jpg"
-                alt="Sobre Asesores LBA"
-                className="rounded-2xl shadow-2xl w-full object-cover max-h-96"
->>>>>>> e247458391d8cb910184cb5926cb1ffa59386cb3
               />
             </motion.div>
           </div>

@@ -33,11 +33,7 @@ export default function TeamProfile({ member, index }: TeamProfileProps) {
               src={member.photo}
               alt={member.name}
               loading="lazy"
-<<<<<<< HEAD
               className="w-45 h-45 rounded-full object-cover border-4 border-white shadow-md"
-=======
-              className="w-28 h-28 rounded-full object-cover border-4 border-white shadow-md"
->>>>>>> e247458391d8cb910184cb5926cb1ffa59386cb3
             />
             <div className="absolute -bottom-1 -right-1 w-8 h-8 rounded-full bg-primary-500 flex items-center justify-center shadow-sm">
               <Award size={14} className="text-dark-950" />

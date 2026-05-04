@@ -14,11 +14,7 @@ export default function HomePage() {
         title="Asesores LBA"
         subtitle={company.tagline}
         description={company.description}
-<<<<<<< HEAD
         backgroundImage="/assets/img/home-banner-2.jpg"
-=======
-        backgroundImage="/assets/img/home-banner.jpg"
->>>>>>> e247458391d8cb910184cb5926cb1ffa59386cb3
       />
 
       {/* Stats strip */}
