@@ -20,14 +20,23 @@ export const team: TeamMember[] = [
   {
     name: 'Liliana Bustos Arteaga',
     role: 'Contador Público',
+<<<<<<< HEAD
     photo: '/assets/img/asesor-4.jpg',
     yearsExperience: '20+',
+=======
+    photo: '/assets/img/asesor-1.jpg',
+    yearsExperience: '15+',
+>>>>>>> e247458391d8cb910184cb5926cb1ffa59386cb3
     specializations: [
       'Análisis de estados financieros',
       'Preparación de impuestos',
       'Contabilidad NIIF',
     ],
+<<<<<<< HEAD
     bio: 'Profesional con más de 20 años de experiencia en contabilidad, auditoría financiera y asesoría tributaria para empresas del sector fiduciario y de salud.',
+=======
+    bio: 'Profesional con más de 15 años de experiencia en contabilidad, auditoría financiera y asesoría tributaria para empresas del sector fiduciario y de salud.',
+>>>>>>> e247458391d8cb910184cb5926cb1ffa59386cb3
     education: [
       {
         year: '2000 - 2006',
